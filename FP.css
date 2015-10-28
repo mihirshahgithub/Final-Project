@@ -18,6 +18,7 @@ body{
 #title{
     font-size:100px;
     border:2px solid green;
+    background-color:blue;
 }
 
 .layout #queue{
@@ -46,9 +47,11 @@ footer{
     position:relative;
     border: 5px solid black;
     display:inline-block;
+    background-color:blue;
 }
 
 .layout #top10{
+    font-size: 60px;
     color: whitesmoke;
     height:20%;
     width: 60%;
